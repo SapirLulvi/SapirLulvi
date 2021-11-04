@@ -1,0 +1,17 @@
+*{
+    font-family: 'Courier New', Courier, monospace; background-color:darksalmon;
+}
+#mainTitle{
+    color:black; font-size: 50px; text-align: center;
+}
+.heading{
+    background-color: lavender; text-align: center;
+
+}
+label{
+    color:black; border: 2px solid lavender;font-weight: bold;
+
+}
+#subm{
+    font-weight: bold;
+}
